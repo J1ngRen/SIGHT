@@ -1,4 +1,4 @@
-# SGPC Experiments
+# SIGHT Experiments
 
 This repository provides experiments for **SGPC (Spiking Graph Predictive Coding)** models, focusing on both **Out-of-Distribution (OOD) robustness** and **OOD detection** across multiple benchmark datasets.
 
